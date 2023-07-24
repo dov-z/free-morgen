@@ -5,3 +5,7 @@ body {
 div {
     margin-bottom: 5px;
 }
+
+h2 {
+    background-color: aqua;
+}
